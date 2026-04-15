@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Banner](./github_banner_v2.png)
+<img width="1280" height="400" alt="github_banner_v2_1" src="https://github.com/user-attachments/assets/ca7997f1-7f06-44c6-9e82-9e88e825803f" />
+
 
 <!-- Typing animation header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&width=500&lines=Hi+I'm+Nitan+👋;Building+AI+%26+data+systems;MLB+predictions+%7C+Property+tech)](https://git.io/typing-svg)
